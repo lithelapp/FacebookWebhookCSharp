@@ -1,0 +1,11 @@
+c:\users\eldri\source\repos\FacebookMessengerWebhook\FacebookMessengerWebhook\bin\Debug\netcoreapp2.0\FacebookMessengerWebhook.deps.json
+c:\users\eldri\source\repos\FacebookMessengerWebhook\FacebookMessengerWebhook\bin\Debug\netcoreapp2.0\FacebookMessengerWebhook.runtimeconfig.json
+c:\users\eldri\source\repos\FacebookMessengerWebhook\FacebookMessengerWebhook\bin\Debug\netcoreapp2.0\FacebookMessengerWebhook.runtimeconfig.dev.json
+c:\users\eldri\source\repos\FacebookMessengerWebhook\FacebookMessengerWebhook\bin\Debug\netcoreapp2.0\FacebookMessengerWebhook.dll
+c:\users\eldri\source\repos\FacebookMessengerWebhook\FacebookMessengerWebhook\obj\Debug\netcoreapp2.0\FacebookMessengerWebhook.csprojResolveAssemblyReference.cache
+c:\users\eldri\source\repos\FacebookMessengerWebhook\FacebookMessengerWebhook\obj\Debug\netcoreapp2.0\FacebookMessengerWebhook.csproj.CoreCompileInputs.cache
+c:\users\eldri\source\repos\FacebookMessengerWebhook\FacebookMessengerWebhook\obj\Debug\netcoreapp2.0\FacebookMessengerWebhook.AssemblyInfoInputs.cache
+c:\users\eldri\source\repos\FacebookMessengerWebhook\FacebookMessengerWebhook\obj\Debug\netcoreapp2.0\FacebookMessengerWebhook.AssemblyInfo.cs
+c:\users\eldri\source\repos\FacebookMessengerWebhook\FacebookMessengerWebhook\bin\Debug\netcoreapp2.0\FacebookMessengerWebhook.pdb
+c:\users\eldri\source\repos\FacebookMessengerWebhook\FacebookMessengerWebhook\obj\Debug\netcoreapp2.0\FacebookMessengerWebhook.dll
+c:\users\eldri\source\repos\FacebookMessengerWebhook\FacebookMessengerWebhook\obj\Debug\netcoreapp2.0\FacebookMessengerWebhook.pdb
